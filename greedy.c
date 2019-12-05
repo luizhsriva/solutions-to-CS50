@@ -1,13 +1,4 @@
-/***************************************************************
-*
-*   Donald Steinert
-*
-*   cs50 - pset1 - greedy
-*
-*   asks user how much change is due
-*   and specifies the minimum number of coins to be returned
-*
-***************************************************************/
+
 
 #include <stdio.h>
 #include <cs50.h>
